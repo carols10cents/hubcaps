@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Repositories",""],["Repository",""],["UserRepositories","Provides access to the authenticated user's repositories"]]});
